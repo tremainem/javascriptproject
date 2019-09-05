@@ -1,0 +1,3 @@
+let favouriteDrink = coffee";
+
+console.log(favouriteDrink);
